@@ -1,0 +1,8 @@
+Social media footer added: Instagram link connected and YouTube placeholder added.
+
+Website update - 26 September 2026
+
+- Added Program 03: Yoga & Meditation Sessions.
+- Added Yoga & Meditation Sessions to the appointment treatment dropdown.
+- Changed the desktop Programs section to a 3-column layout.
+- Preserved the existing appointment JavaScript and Google Apps Script connection.
